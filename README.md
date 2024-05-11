@@ -1,2 +1,2 @@
 # first-project
-Проекты YaAQA
+This is my first project in the qa automation engineer java course
